@@ -1,1 +1,2 @@
 # Python-project
+This project focuses on securely embedding text messages within digital images by combining steganography with AES encryption. It ensures the confidentiality and integrity of hidden information, making it imperceptible to an unauthorized observer. By first encrypting the text with a robust algorithm like AES and then cleverly concealing it within image data, the system provides a discreet and highly protected communication channel.
